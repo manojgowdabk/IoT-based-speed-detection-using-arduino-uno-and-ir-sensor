@@ -1,1 +1,2 @@
-# IoT-based-speed-detection-using-arduino-uno-and-ir-sensor
+# Car-Speed-Detector-using-Arduino-and-IR-Sensor
+Car Speed Detector using Arduino and IR Sensor
